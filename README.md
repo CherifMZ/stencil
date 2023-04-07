@@ -5,7 +5,7 @@ The main objective is to see how we manage the complexity of large programs by s
 
 PS: this is a very small project which allow us to follow the structure to build a project containing C++ (.cpp and .h) and CUDA (.cu and .cuh) source files.
 
-## Overall structure
+## The overall structure
 ```
 |--> Stencil/
        |--> CMakeLists.txt
