@@ -1,0 +1,6 @@
+# Folders
+.vscode
+build
+
+#CMake
+CMakeUserPresets.json
